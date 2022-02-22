@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "256ee0a7-b823-4c9a-957f-7e0d6d3a77dc": {
+      "ProjectGuid": "256ee0a7-b823-4c9a-957f-7e0d6d3a77dc",
+      "DisplayName": "MISA.Fresher.Architecture2",
+      "ColorIndex": 0
+    },
+    "212fd96d-35b4-4c66-a9dc-0bba8d20b883": {
+      "ProjectGuid": "212fd96d-35b4-4c66-a9dc-0bba8d20b883",
+      "DisplayName": "MISA.Fresher.Core",
+      "ColorIndex": 1
+    },
+    "892b45ea-43cc-43a1-9dec-1db46eb3aa99": {
+      "ProjectGuid": "892b45ea-43cc-43a1-9dec-1db46eb3aa99",
+      "DisplayName": "MISA.Fresher.Infrastructure",
+      "ColorIndex": 2
+    },
+    "b48c4df3-41e7-4085-832e-19df31a61104": {
+      "ProjectGuid": "b48c4df3-41e7-4085-832e-19df31a61104",
+      "DisplayName": "MISA.Fresher.Api",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,14 @@
+D:\FresherMisa\MS.WEB2021_12\mf1042_laduc\Architecture\MISA.Fresher.Architecture2\MISA.Fresher.Core\bin\Debug\net6.0\MISA.Fresher.Core.deps.json
+D:\FresherMisa\MS.WEB2021_12\mf1042_laduc\Architecture\MISA.Fresher.Architecture2\MISA.Fresher.Core\bin\Debug\net6.0\MISA.Fresher.Core.dll
+D:\FresherMisa\MS.WEB2021_12\mf1042_laduc\Architecture\MISA.Fresher.Architecture2\MISA.Fresher.Core\bin\Debug\net6.0\ref\MISA.Fresher.Core.dll
+D:\FresherMisa\MS.WEB2021_12\mf1042_laduc\Architecture\MISA.Fresher.Architecture2\MISA.Fresher.Core\bin\Debug\net6.0\MISA.Fresher.Core.pdb
+D:\FresherMisa\MS.WEB2021_12\mf1042_laduc\Architecture\MISA.Fresher.Architecture2\MISA.Fresher.Core\obj\Debug\net6.0\MISA.Fresher.Core.csproj.AssemblyReference.cache
+D:\FresherMisa\MS.WEB2021_12\mf1042_laduc\Architecture\MISA.Fresher.Architecture2\MISA.Fresher.Core\obj\Debug\net6.0\MISA.Fresher.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\FresherMisa\MS.WEB2021_12\mf1042_laduc\Architecture\MISA.Fresher.Architecture2\MISA.Fresher.Core\obj\Debug\net6.0\MISA.Fresher.Core.AssemblyInfoInputs.cache
+D:\FresherMisa\MS.WEB2021_12\mf1042_laduc\Architecture\MISA.Fresher.Architecture2\MISA.Fresher.Core\obj\Debug\net6.0\MISA.Fresher.Core.AssemblyInfo.cs
+D:\FresherMisa\MS.WEB2021_12\mf1042_laduc\Architecture\MISA.Fresher.Architecture2\MISA.Fresher.Core\obj\Debug\net6.0\MISA.Fresher.Core.csproj.CoreCompileInputs.cache
+D:\FresherMisa\MS.WEB2021_12\mf1042_laduc\Architecture\MISA.Fresher.Architecture2\MISA.Fresher.Core\obj\Debug\net6.0\MISA.Fresher.Core.dll
+D:\FresherMisa\MS.WEB2021_12\mf1042_laduc\Architecture\MISA.Fresher.Architecture2\MISA.Fresher.Core\obj\Debug\net6.0\ref\MISA.Fresher.Core.dll
+D:\FresherMisa\MS.WEB2021_12\mf1042_laduc\Architecture\MISA.Fresher.Architecture2\MISA.Fresher.Core\obj\Debug\net6.0\MISA.Fresher.Core.pdb
+D:\FresherMisa\MS.WEB2021_12\mf1042_laduc\Architecture\MISA.Fresher.Architecture2\MISA.Fresher.Core\obj\Debug\net6.0\MISA.Fresher.Core.Resources.ResourceVN.resources
+D:\FresherMisa\MS.WEB2021_12\mf1042_laduc\Architecture\MISA.Fresher.Architecture2\MISA.Fresher.Core\obj\Debug\net6.0\MISA.Fresher.Core.csproj.GenerateResource.cache
